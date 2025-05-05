@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ebubekir!  
-**Frontend Developer | UI Enthusiast | Clean Code Aşığı**
+**Frontend Developer
 
 ---
 
