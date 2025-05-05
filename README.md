@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Teknolojiler & Yetenekler
+## 🚀 Skills & Technologies
 
 ### 🎨 Frontend  
 - **HTML5**, **CSS3**, **SCSS**, **SASS**, **TailwindCSS**, **Bootstrap 5**, **BEM**
@@ -36,10 +36,10 @@
 - **Figma/Zeplin to CSS**, **Responsive UI Development**
 - **Jinja Template Engine**
 
-### ⚙️ Backend & Veritabanı  
+### ⚙️ Backend & Database  
 - **PHP**, **MySQL**
 
-### 🛠️ Araçlar & Pratikler  
+### 🛠️ Tools & Workflow  
 - **Git**, **JIRA**
 - **Agile / Scrum metodolojisi**
 - **SEO kriterlerine uygun geliştirme**
@@ -48,8 +48,8 @@
 
 ---
 
-## 📫 İletişim
+## 📫 Contact
 
 LinkedIn: [https://www.linkedin.com/in/ebubekiryigen/](#)  
-E-posta: [ebubekiryigen34@gmail.com](mailto:ebubekiryigen34@gmail.com)  
+Email: [ebubekiryigen34@gmail.com](mailto:ebubekiryigen34@gmail.com)  
 GitHub: [https://github.com/ebubekiryigen](#)
